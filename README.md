@@ -6,7 +6,7 @@ My personal website
 <head> 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Basira - بصيره</title>
+  <title>Coach Rana Samy</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -72,9 +72,6 @@ My personal website
   </style>
 </head>
 <body>
-
-  <h1>Basira</h1>
-  <h2>بصيره - منصة الدعم والإرشاد</h2>
 
   <p>تابعونا وتواصلوا معنا من خلال الروابط التالية:</p>
 
