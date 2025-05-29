@@ -1,7 +1,5 @@
 # Coach-Rana-Samy
-My personal website
 
-<!DOCTYPE html>
 <html lang="en">
 <head> 
   <meta charset="UTF-8" />
