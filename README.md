@@ -98,5 +98,3 @@ My Instagram Account
     Soulsketch Whatsapp Group
   </a>
 
-</body>
-</html>
